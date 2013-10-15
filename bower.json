@@ -6,7 +6,7 @@
   "homepage": "http://angular-ui.github.com",
   "main": "./modules/utils.js",
   "dependencies": {
-    
+    "angular": "https://github.com/angular/bower-angular.git"
   },
   "devDependencies": {
     "angular-mocks": "~1.0.5",
